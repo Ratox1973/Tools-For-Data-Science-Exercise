@@ -1,1 +1,1 @@
-Lab: Workimg with flies in Jupyter Notebooks
+Lab: Working with flies in Jupyter Notebooks
